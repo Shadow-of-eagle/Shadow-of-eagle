@@ -1,6 +1,6 @@
 Yes, I just copied the default:
 - 👋 Hi, I’m @Shadow-of-eagle
-- 👀 I’m interested in HTML, Python, Linux.
+- 👀 I’m interested in HTML, Python, 3D Modelling and Linux.
 - 🌱 I’m currently learning how tu use Linux.
 - 💞️ I’m looking to collaborate on: currently nothing.
 - 📫 How to reach me: I have no Idea.
